@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.17.3"
+  },
+  "dependencies": {
+    "puppeteer": "^21.2.0",
+    "puppeteer-core": "^21.2.0"
+  }
+}
